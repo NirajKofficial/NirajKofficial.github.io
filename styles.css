@@ -6,7 +6,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh; 
-  background-color: white; 
+  background-color: rgb(207, 207, 207); 
 }
 .container {
   text-align: center;
