@@ -19,6 +19,12 @@ body {
   margin-bottom: 20px;
 }
 
+.tagline {
+  font-size: 1.25em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
 .maintenance-icon img {
   max-width: 700px; 
 }
