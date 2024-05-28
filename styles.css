@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f9f9f9;
+}
+
+.container {
+  text-align: center;
+}
+
+.logo {
+  font-size: 2.5em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.maintenance-icon img {
+  max-width: 100px;
+  animation: rotate 2s linear infinite;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+p {
+  color: #666;
+  margin-top: 20px;
+}
